@@ -1,0 +1,948 @@
+Found nothing new to download from Steam Workshop!
+Base.rte Õ loading:
+	Index.ini on line 3 includes:
+		Materials.ini - done! Ö
+	Index.ini on line 4 includes:
+		Icons.ini - done! Ö
+	Index.ini on line 5 includes:
+		Sounds.ini - done! Ö
+	Index.ini on line 6 includes:
+		Effects.ini on line 166 includes:
+			Effects/Gibs/Gibs.ini - done! Ö
+		Effects.ini on line 167 includes:
+			Effects/Gibs/LegacyGibs.ini - done! Ö
+		Effects.ini on line 168 includes:
+			Effects/Pyro/Pyro.ini - done! Ö
+		Effects.ini on line 169 includes:
+			Effects/Wounds/Wounds.ini - done! Ö
+		Effects.ini - done! Ö
+	Index.ini on line 7 includes:
+		Ammo.ini - done! Ö
+	Index.ini on line 8 includes:
+		Devices.ini on line 2 includes:
+			Devices/Cannons/Cannons.ini - done! Ö
+		Devices.ini on line 3 includes:
+			Devices/Diggers/Diggers.ini - done! Ö
+		Devices.ini on line 4 includes:
+			Devices/Scanners/Scanners.ini - done! Ö
+		Devices.ini on line 5 includes:
+			Devices/Explosives/Explosives.ini on line 208 includes:
+				Devices/Explosives/Remote Explosives.ini - done! Ö
+			Devices/Explosives/Explosives.ini on line 209 includes:
+				Devices/Explosives/Mines.ini - done! Ö
+			Devices/Explosives/Explosives.ini on line 210 includes:
+				Devices/Explosives/Bombs.ini - done! Ö
+			Devices/Explosives/Explosives.ini - done! Ö
+		Devices.ini on line 6 includes:
+			Devices/Disarmer/Disarmer.ini - done! Ö
+		Devices.ini on line 7 includes:
+			Devices/Pistols/Pistols.ini - done! Ö
+		Devices.ini on line 9 includes:
+			Devices/SMGs/SMGs.ini - done! Ö
+		Devices.ini on line 10 includes:
+			Devices/Rifles/BattleRifle.ini - done! Ö
+		Devices.ini on line 11 includes:
+			Devices/Shields/Shields.ini - done! Ö
+		Devices.ini on line 12 includes:
+			Devices/Shotguns/Shotguns.ini - done! Ö
+		Devices.ini on line 13 includes:
+			Devices/Shotguns/Blunderbuss.ini - done! Ö
+		Devices.ini on line 14 includes:
+			Devices/Shotguns/Blunderpop.ini - done! Ö
+		Devices.ini on line 15 includes:
+			Devices/Sprayers/Sprayers.ini - done! Ö
+		Devices.ini on line 16 includes:
+			Devices/Pistols/BlasterPistol.ini - done! Ö
+		Devices.ini on line 17 includes:
+			Devices/Rifles/LaserRifle.ini - done! Ö
+		Devices.ini on line 18 includes:
+			Devices/Sprayers/Repeller.ini - done! Ö
+		Devices.ini on line 19 includes:
+			Devices/Grapple Gun/GrappleGun.ini - done! Ö
+		Devices.ini on line 20 includes:
+			Devices/Constructor/Constructor.ini - done! Ö
+		Devices.ini on line 21 includes:
+			Devices/Artifacts/Artifacts.ini - done! Ö
+		Devices.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors.ini on line 173 includes:
+			Actors/Doors/Doors.ini - done! Ö
+		Actors.ini on line 174 includes:
+			Actors/Wildlife/Wildlife.ini - done! Ö
+		Actors.ini on line 175 includes:
+			Actors/Brains/Brains.ini - done! Ö
+		Actors.ini on line 176 includes:
+			Actors/Brainbot/Brainbot.ini - done! Ö
+		Actors.ini on line 177 includes:
+			Actors/AADrone/Drone.ini on line 1 includes:
+				Actors/AADrone/SAM.ini - done! Ö
+			Actors/AADrone/Drone.ini - done! Ö
+		Actors.ini on line 178 includes:
+			Actors/Medic Drone/MDrone.ini - done! Ö
+		Actors.ini on line 179 includes:
+			Actors/Storage Crate/Crate.ini - done! Ö
+		Actors.ini on line 180 includes:
+			Actors/Rockets/Index.ini on line 1 includes:
+				Actors/Rockets/RocketsNew.ini - done! Ö
+			Actors/Rockets/Index.ini on line 2 includes:
+				Actors/Rockets/Rocket Stuff.ini - done! Ö
+			Actors/Rockets/Index.ini on line 3 includes:
+				Actors/Rockets/Rocket Mk1.ini - done! Ö
+			Actors/Rockets/Index.ini on line 4 includes:
+				Actors/Rockets/Rocket Mk2.ini - done! Ö
+			Actors/Rockets/Index.ini - done! Ö
+		Actors.ini on line 181 includes:
+			Actors/DropShips/DropShips.ini - done! Ö
+		Actors.ini on line 182 includes:
+			Actors/Skeletons/Skeletons.ini - done! Ö
+		Actors.ini on line 183 includes:
+			Actors/Zombies/Zombies.ini - done! Ö
+		Actors.ini on line 184 includes:
+			Actors/AI/PathFinder.ini - done! Ö
+		Actors.ini on line 185 includes:
+			Actors/AI/Alert.ini - done! Ö
+		Actors.ini on line 186 includes:
+			Hats/Hats.ini - done! Ö
+		Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini on line 11 includes:
+		Deployments.ini - done! Ö
+	Index.ini on line 12 includes:
+		Scenes.ini on line 4 includes:
+			Scenes/Backdrops.ini - done! Ö
+		Scenes.ini on line 10 includes:
+			Scenes/Weather/Weather.ini - done! Ö
+		Scenes.ini on line 30 includes:
+			Scenes/Objects/Bunkers/Bunkers.ini on line 1 includes:
+				Scenes/Objects/Bunkers/PartialBunkerBits/PartialBunkerBits.ini - done! Ö
+			Scenes/Objects/Bunkers/Bunkers.ini on line 2 includes:
+				Scenes/Objects/Bunkers/BunkerBits/BunkerBits.ini - done! Ö
+			Scenes/Objects/Bunkers/Bunkers.ini on line 3 includes:
+				Scenes/Objects/Bunkers/BunkerModules/BunkerModules.ini - done! Ö
+			Scenes/Objects/Bunkers/Bunkers.ini on line 4 includes:
+				Scenes/Objects/Bunkers/BunkerSystems/BunkerSystems.ini - done! Ö
+			Scenes/Objects/Bunkers/Bunkers.ini on line 5 includes:
+				Scenes/Objects/Bunkers/BunkerBackgrounds/BunkerBackgrounds.ini - done! Ö
+			Scenes/Objects/Bunkers/Bunkers.ini - done! Ö
+		Scenes.ini on line 31 includes:
+			Scenes/Objects/Geology/Geology.ini - done! Ö
+		Scenes.ini on line 32 includes:
+			Scenes/Objects/Bunkers/BunkerAssemblySchemes/BunkerAssemblySchemes.ini - done! Ö
+		Scenes.ini on line 33 includes:
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 1 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 2 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 3 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 4 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 5 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 6 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 7 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 8 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 8.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 9 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 9.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 10 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Tower 2x3 - 10.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 11 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Pillbox 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 12 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Pillbox 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 13 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 14 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 15 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 16 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 17 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 18 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 19 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor 3x1 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 20 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 21 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 22 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 23 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 24 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 25 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 26 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 27 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 8.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 28 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 9.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 29 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 10.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 30 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 11.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 31 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 12.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 32 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 13.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 33 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Corridor Wide 3x2 - 14.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 34 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 1x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 35 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 1x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 36 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 1x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 37 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 1x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 38 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 39 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 40 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 41 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 42 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x1 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 43 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Shaft 2x1 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 44 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 45 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 46 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 47 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 48 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 49 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 50 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 51 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 8.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 52 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance 3x3 - 9.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 53 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Up-Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 54 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Up-Wide 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 55 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Up 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 56 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Up 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 57 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Left 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 58 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Left 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 59 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Left 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 60 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Right 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 61 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Right 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 62 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Entrance Right 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 63 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Drop Ship Bay Up 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 64 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Drop Ship Bay Up 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 65 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Drop Ship Bay Up 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 66 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Drop Ship Bay Up 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 67 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Up Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 68 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Up Wide 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 69 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Up Wide 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 70 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Up Wide 3x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 71 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Up Wide 3x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 72 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 73 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 74 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 75 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 76 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 77 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/T-Intersection Down Wide 3x2 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 78 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x1 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 79 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x1 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 80 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x1 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 81 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 82 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 83 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 84 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Small T-Intersection Up Wide 3x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 85 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Left 2x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 86 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Left 2x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 87 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Left 2x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 88 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Left 2x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 89 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Right 2x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 90 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Right 2x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 91 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Right 2x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 92 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/U-Turn Right 2x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 93 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 94 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 95 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 96 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 97 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 98 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 99 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 100 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 101 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x1 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 102 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x1 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 103 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left 2x1 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 104 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x1 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 105 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x1 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 106 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right 2x1 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 107 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left Wide 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 108 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left Wide 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 109 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 110 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Left Wide 4x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 111 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 112 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 113 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 114 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 4x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 115 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 4x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 116 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Dead End Right Wide 4x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 117 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 118 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 119 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 120 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 121 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xDn-Wide 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 122 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xDn-Wide 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 123 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xDn 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 124 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xDn 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 125 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xDn 5x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 126 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 127 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 128 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 129 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 130 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 131 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 5x2 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 132 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xDn-Wide 5x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 133 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xDn-Wide 5x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 134 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 5x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 135 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 5x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 136 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 5x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 137 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 2xDn 5x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 138 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 2xDn 5x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 139 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 2xDn 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 140 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 1xUp-Wide 2xDn 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 141 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 142 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 143 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 144 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 145 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 146 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 147 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 148 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Cross 2xUp 1xDn-Wide 5x3 - 8.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 149 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Right 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 150 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Right 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 151 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Right 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 152 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Left 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 153 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Left 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 154 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Window Left 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 155 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Chamber Left 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 156 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Chamber Left 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 157 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Chamber Right 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 158 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Chamber Right 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 159 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 160 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 161 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout 2x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 162 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout 2x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 163 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout Middle 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 164 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Brain Hideout Middle 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 165 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 166 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 167 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 168 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 3x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 169 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 3x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 170 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 171 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 172 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 173 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 174 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 5.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 175 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 6.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 176 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room 5x2 - 7.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 177 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 178 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 179 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 5x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 180 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 5x2 - 4.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 181 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Right Bottom-Left 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 182 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Right Bottom-Left 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 183 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 184 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Left Bottom-Right 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 185 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Right Bottom-Left 2x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 186 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Upper-Right Bottom-Left 2x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 187 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 3x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 188 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 3x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 189 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 3x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 190 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 5x2 - 1.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 191 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 5x2 - 2.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini on line 192 includes:
+				Scenes/Objects/Bunkers/BunkerAssemblies/Room Up 5x2 - 3.ini - done! Ö
+			Scenes/Objects/Bunkers/BunkerAssemblies/BunkerAssemblies.ini - done! Ö
+		Scenes.ini on line 122 includes:
+			Scenes/Editor.ini - done! Ö
+		Scenes.ini on line 123 includes:
+			Scenes/Physics Test.ini - done! Ö
+		Scenes.ini on line 128 includes:
+			Scenes/Fredeleig Plains.ini - done! Ö
+		Scenes.ini on line 129 includes:
+			Scenes/Vesod Plains.ini - done! Ö
+		Scenes.ini on line 130 includes:
+			Scenes/Burraki Desert.ini - done! Ö
+		Scenes.ini on line 131 includes:
+			Scenes/Rhias Forest.ini - done! Ö
+		Scenes.ini on line 133 includes:
+			Scenes/Yskely Mountains.ini - done! Ö
+		Scenes.ini on line 134 includes:
+			Scenes/Mt. Imdunt.ini - done! Ö
+		Scenes.ini on line 135 includes:
+			Scenes/Rayvord Tundra.ini - done! Ö
+		Scenes.ini on line 136 includes:
+			Scenes/Slodran Wilderness.ini - done! Ö
+		Scenes.ini on line 137 includes:
+			Scenes/Dvorak Caves.ini - done! Ö
+		Scenes.ini on line 139 includes:
+			Scenes/Zekarra Lowlands.ini - done! Ö
+		Scenes.ini on line 140 includes:
+			Scenes/Metankora Highlands.ini - done! Ö
+		Scenes.ini on line 141 includes:
+			Scenes/Ketanot Hills.ini - done! Ö
+		Scenes.ini on line 144 includes:
+			Scenes/M1 - Fredeleig Plains.ini - done! Ö
+		Scenes.ini on line 145 includes:
+			Scenes/M2 - Fredeleig Plains.ini - done! Ö
+		Scenes.ini on line 146 includes:
+			Scenes/M3 - Fredeleig Plains.ini - done! Ö
+		Scenes.ini on line 149 includes:
+			Scenes/M1 - Vesod Plains.ini - done! Ö
+		Scenes.ini on line 150 includes:
+			Scenes/M2 - Vesod Plains.ini - done! Ö
+		Scenes.ini on line 151 includes:
+			Scenes/M3 - Vesod Plains.ini - done! Ö
+		Scenes.ini on line 154 includes:
+			Scenes/M1 - Burraki Desert.ini - done! Ö
+		Scenes.ini on line 155 includes:
+			Scenes/M2 - Burraki Desert.ini - done! Ö
+		Scenes.ini on line 156 includes:
+			Scenes/M3 - Burraki Desert.ini - done! Ö
+		Scenes.ini on line 159 includes:
+			Scenes/M1 - Rhias Forest.ini - done! Ö
+		Scenes.ini on line 160 includes:
+			Scenes/M2 - Rhias Forest.ini - done! Ö
+		Scenes.ini on line 161 includes:
+			Scenes/M3 - Rhias Forest.ini - done! Ö
+		Scenes.ini on line 164 includes:
+			Scenes/M1 - Yskely Mountains.ini - done! Ö
+		Scenes.ini on line 165 includes:
+			Scenes/M2 - Yskely Mountains.ini - done! Ö
+		Scenes.ini on line 166 includes:
+			Scenes/M3 - Yskely Mountains.ini - done! Ö
+		Scenes.ini on line 169 includes:
+			Scenes/M1 - Mt. Imdunt.ini - done! Ö
+		Scenes.ini on line 170 includes:
+			Scenes/M2 - Mt. Imdunt.ini - done! Ö
+		Scenes.ini on line 171 includes:
+			Scenes/M3 - Mt. Imdunt.ini - done! Ö
+		Scenes.ini on line 174 includes:
+			Scenes/M1 - Rayvord Tundra.ini - done! Ö
+		Scenes.ini on line 175 includes:
+			Scenes/M2 - Rayvord Tundra.ini - done! Ö
+		Scenes.ini on line 176 includes:
+			Scenes/M3 - Rayvord Tundra.ini - done! Ö
+		Scenes.ini on line 179 includes:
+			Scenes/M1 - Slodran Wilderness.ini - done! Ö
+		Scenes.ini on line 180 includes:
+			Scenes/M2 - Slodran Wilderness.ini - done! Ö
+		Scenes.ini on line 181 includes:
+			Scenes/M3 - Slodran Wilderness.ini - done! Ö
+		Scenes.ini on line 184 includes:
+			Scenes/M1 - Dvorak Caves.ini - done! Ö
+		Scenes.ini on line 185 includes:
+			Scenes/M2 - Dvorak Caves.ini - done! Ö
+		Scenes.ini on line 186 includes:
+			Scenes/M3 - Dvorak Caves.ini - done! Ö
+		Scenes.ini on line 189 includes:
+			Scenes/M1 - Zekarra Lowlands.ini - done! Ö
+		Scenes.ini on line 190 includes:
+			Scenes/M2 - Zekarra Lowlands.ini - done! Ö
+		Scenes.ini on line 191 includes:
+			Scenes/M3 - Zekarra Lowlands.ini - done! Ö
+		Scenes.ini on line 194 includes:
+			Scenes/M1 - Metankora Highlands.ini - done! Ö
+		Scenes.ini on line 195 includes:
+			Scenes/M2 - Metankora Highlands.ini - done! Ö
+		Scenes.ini on line 196 includes:
+			Scenes/M3 - Metankora Highlands.ini - done! Ö
+		Scenes.ini on line 199 includes:
+			Scenes/M1 - Ketanot Hills.ini - done! Ö
+		Scenes.ini on line 200 includes:
+			Scenes/M2 - Ketanot Hills.ini - done! Ö
+		Scenes.ini on line 201 includes:
+			Scenes/M3 - Ketanot Hills.ini - done! Ö
+		Scenes.ini - done! Ö
+	Index.ini on line 13 includes:
+		Activities.ini - done! Ö
+	Index.ini on line 14 includes:
+		GlobalScripts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Coalition.rte Õ loading:
+	Index.ini on line 7 includes:
+		Effects/Effects.ini on line 1 includes:
+			Effects/Gibs/Gibs.ini - done! Ö
+		Effects/Effects.ini - done! Ö
+	Index.ini on line 8 includes:
+		Devices/Devices.ini on line 24 includes:
+			Devices/Tools/PulseDigger.ini - done! Ö
+		Devices/Devices.ini on line 29 includes:
+			Devices/Explosives/Grenades.ini - done! Ö
+		Devices/Devices.ini on line 30 includes:
+			Devices/Explosives/TimedExplosives.ini - done! Ö
+		Devices/Devices.ini on line 35 includes:
+			Devices/Weapons/Pistols.ini - done! Ö
+		Devices/Devices.ini on line 36 includes:
+			Devices/Weapons/Machineguns.ini - done! Ö
+		Devices/Devices.ini on line 37 includes:
+			Devices/Weapons/Shotguns.ini - done! Ö
+		Devices/Devices.ini on line 38 includes:
+			Devices/Weapons/GrenadeLaunchers.ini - done! Ö
+		Devices/Devices.ini on line 39 includes:
+			Devices/Weapons/GatlingGun.ini - done! Ö
+		Devices/Devices.ini on line 40 includes:
+			Devices/Weapons/Snipers.ini - done! Ö
+		Devices/Devices.ini on line 41 includes:
+			Devices/Weapons/HeavySniper.ini - done! Ö
+		Devices/Devices.ini on line 42 includes:
+			Devices/Weapons/Flamers.ini - done! Ö
+		Devices/Devices.ini on line 43 includes:
+			Devices/Weapons/AutoCannon.ini - done! Ö
+		Devices/Devices.ini on line 44 includes:
+			Devices/Weapons/RevolverCannon.ini - done! Ö
+		Devices/Devices.ini on line 45 includes:
+			Devices/Weapons/FlakCannon.ini - done! Ö
+		Devices/Devices.ini on line 46 includes:
+			Devices/Weapons/RPG.ini - done! Ö
+		Devices/Devices.ini on line 47 includes:
+			Devices/Weapons/UberCannon.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/Soldier/Soldier.ini - done! Ö
+		Actors/Actors.ini on line 2 includes:
+			Actors/Blast Runner/BlastRunner.ini - done! Ö
+		Actors/Actors.ini on line 3 includes:
+			Actors/Drone/Drone.ini - done! Ö
+		Actors/Actors.ini on line 4 includes:
+			Actors/Gatling Drone/GatlingDrone.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Techion.rte Õ loading:
+	Index.ini on line 7 includes:
+		Effects/LaserEffects.ini - done! Ö
+	Index.ini on line 8 includes:
+		Devices/Devices.ini on line 4 includes:
+			Devices/Tools/Nanolyzer.ini - done! Ö
+		Devices/Devices.ini on line 9 includes:
+			Devices/Explosives/Nanoswarm.ini - done! Ö
+		Devices/Devices.ini on line 10 includes:
+			Devices/Explosives/WarpGrenade.ini - done! Ö
+		Devices/Devices.ini on line 15 includes:
+			Devices/Weapons/MicroPulsar.ini - done! Ö
+		Devices/Devices.ini on line 16 includes:
+			Devices/Weapons/PulseRifle.ini - done! Ö
+		Devices/Devices.ini on line 17 includes:
+			Devices/Weapons/GigaPulsar.ini - done! Ö
+		Devices/Devices.ini on line 18 includes:
+			Devices/Weapons/Nanorifle.ini - done! Ö
+		Devices/Devices.ini on line 19 includes:
+			Devices/Weapons/Nucleo.ini - done! Ö
+		Devices/Devices.ini on line 20 includes:
+			Devices/Weapons/DihelicalCannon.ini - done! Ö
+		Devices/Devices.ini on line 21 includes:
+			Devices/Weapons/NucleoSwarm.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/Whitebot/Whitebot.ini - done! Ö
+		Actors/Actors.ini on line 2 includes:
+			Actors/Silver Man/SilverMan.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Imperatus.rte Õ loading:
+	Index.ini on line 7 includes:
+		Effects/Gibs/Gibs.ini - done! Ö
+	Index.ini on line 8 includes:
+		Devices/Devices.ini on line 8 includes:
+			Devices/Explosives/ScatterBomb.ini - done! Ö
+		Devices/Devices.ini on line 13 includes:
+			Devices/Weapons/Chunker.ini - done! Ö
+		Devices/Devices.ini on line 14 includes:
+			Devices/Weapons/Slugger.ini - done! Ö
+		Devices/Devices.ini on line 15 includes:
+			Devices/Weapons/Bullpup.ini - done! Ö
+		Devices/Devices.ini on line 16 includes:
+			Devices/Weapons/Mauler.ini - done! Ö
+		Devices/Devices.ini on line 17 includes:
+			Devices/Weapons/BullDog.ini - done! Ö
+		Devices/Devices.ini on line 18 includes:
+			Devices/Weapons/HeavySniper.ini - done! Ö
+		Devices/Devices.ini on line 19 includes:
+			Devices/Weapons/FlakCannon.ini - done! Ö
+		Devices/Devices.ini on line 20 includes:
+			Devices/Weapons/RevolverCannon.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/Robots/Robots.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Ronin.rte Õ loading:
+	Index.ini on line 7 includes:
+		Effects/Gibs.ini - done! Ö
+	Index.ini on line 8 includes:
+		Devices/Devices.ini on line 3 includes:
+			Devices/Tools/Chainsaw.ini - done! Ö
+		Devices/Devices.ini on line 4 includes:
+			Devices/Tools/Shovel.ini - done! Ö
+		Devices/Devices.ini on line 8 includes:
+			Devices/Weapons/Handguns.ini - done! Ö
+		Devices/Devices.ini on line 9 includes:
+			Devices/Weapons/Uzi.ini - done! Ö
+		Devices/Devices.ini on line 10 includes:
+			Devices/Weapons/Thompson.ini - done! Ö
+		Devices/Devices.ini on line 11 includes:
+			Devices/Weapons/MP5K.ini - done! Ö
+		Devices/Devices.ini on line 12 includes:
+			Devices/Weapons/AK-47.ini - done! Ö
+		Devices/Devices.ini on line 13 includes:
+			Devices/Weapons/M16.ini - done! Ö
+		Devices/Devices.ini on line 14 includes:
+			Devices/Weapons/Shotguns.ini - done! Ö
+		Devices/Devices.ini on line 15 includes:
+			Devices/Weapons/Rifles.ini - done! Ö
+		Devices/Devices.ini on line 16 includes:
+			Devices/Weapons/M60.ini - done! Ö
+		Devices/Devices.ini on line 17 includes:
+			Devices/Weapons/GrenadeLaunchers.ini - done! Ö
+		Devices/Devices.ini on line 19 includes:
+			Devices/Weapons/RPG-7.ini - done! Ö
+		Devices/Devices.ini on line 20 includes:
+			Devices/Weapons/RPC.ini - done! Ö
+		Devices/Devices.ini on line 23 includes:
+			Devices/Explosives/Stone.ini - done! Ö
+		Devices/Devices.ini on line 24 includes:
+			Devices/Explosives/Grenades.ini - done! Ö
+		Devices/Devices.ini on line 25 includes:
+			Devices/Explosives/SignalJammer.ini - done! Ö
+		Devices/Devices.ini on line 27 includes:
+			Devices/Explosives/MolotovCocktail.ini - done! Ö
+		Devices/Devices.ini on line 28 includes:
+			Devices/Explosives/AntigravityChocolate.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/RoninSoldier/RoninSoldier.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Dummy.rte Õ loading:
+	Index.ini on line 7 includes:
+		Devices/Devices.ini on line 4 includes:
+			Devices/Tools/Diggers.ini - done! Ö
+		Devices/Devices.ini on line 9 includes:
+			Devices/Explosives/Impulse Grenade.ini - done! Ö
+		Devices/Devices.ini on line 10 includes:
+			Devices/Explosives/Disruptor Grenade.ini - done! Ö
+		Devices/Devices.ini on line 15 includes:
+			Devices/Weapons/Nailgun.ini - done! Ö
+		Devices/Devices.ini on line 16 includes:
+			Devices/Weapons/Pistol.ini - done! Ö
+		Devices/Devices.ini on line 17 includes:
+			Devices/Weapons/Blaster.ini - done! Ö
+		Devices/Devices.ini on line 18 includes:
+			Devices/Weapons/Lancer.ini - done! Ö
+		Devices/Devices.ini on line 19 includes:
+			Devices/Weapons/Frag Nailer.ini - done! Ö
+		Devices/Devices.ini on line 20 includes:
+			Devices/Weapons/Nailer Cannon.ini - done! Ö
+		Devices/Devices.ini on line 21 includes:
+			Devices/Weapons/Scouting Rifle.ini - done! Ö
+		Devices/Devices.ini on line 22 includes:
+			Devices/Weapons/Impulse Cannon.ini - done! Ö
+		Devices/Devices.ini on line 23 includes:
+			Devices/Weapons/Repeater Support.ini - done! Ö
+		Devices/Devices.ini on line 24 includes:
+			Devices/Weapons/Destroyer.ini - done! Ö
+		Devices/Devices.ini on line 25 includes:
+			Devices/Weapons/Laser Cannon.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 8 includes:
+		Crafts/Crafts.ini on line 1 includes:
+			Crafts/Dummy Rocket/Rocket.ini - done! Ö
+		Crafts/Crafts.ini on line 2 includes:
+			Crafts/Dummy Dropship/Dropship.ini - done! Ö
+		Crafts/Crafts.ini - done! Ö
+	Index.ini on line 9 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/Dummy/Dummy.ini - done! Ö
+		Actors/Actors.ini on line 2 includes:
+			Actors/Dreadnought/Dreadnought.ini - done! Ö
+		Actors/Actors.ini on line 3 includes:
+			Actors/Small Turret/Small Turret2.ini - done! Ö
+		Actors/Actors.ini on line 4 includes:
+			Actors/Controller/Controller.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Browncoats.rte Õ loading:
+	Index.ini on line 7 includes:
+		Effects/Effects.ini on line 4 includes:
+			Effects/Pyro/Pyro.ini - done! Ö
+		Effects/Effects.ini - done! Ö
+	Index.ini on line 8 includes:
+		Actors/Actors.ini on line 1 includes:
+			Actors/Soldier/Soldier.ini - done! Ö
+		Actors/Actors.ini on line 2 includes:
+			Actors/Soldier/SoldierB.ini - done! Ö
+		Actors/Actors.ini - done! Ö
+	Index.ini on line 9 includes:
+		Devices/Devices.ini on line 51 includes:
+			Devices/Explosives/Grenades.ini - done! Ö
+		Devices/Devices.ini on line 56 includes:
+			Devices/Weapons/Handguns.ini - done! Ö
+		Devices/Devices.ini on line 57 includes:
+			Devices/Weapons/Rifles.ini - done! Ö
+		Devices/Devices.ini on line 58 includes:
+			Devices/Weapons/Incendiary.ini - done! Ö
+		Devices/Devices.ini on line 59 includes:
+			Devices/Weapons/Cannons.ini - done! Ö
+		Devices/Devices.ini on line 60 includes:
+			Devices/Weapons/Launchers.ini - done! Ö
+		Devices/Devices.ini - done! Ö
+	Index.ini on line 10 includes:
+		Loadouts.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Tutorial.rte Õ loading:
+	Index.ini on line 3 includes:
+		Scenes.ini on line 1 includes:
+			Terrains.ini - done! Ö
+		Scenes.ini on line 3 includes:
+			Scenes/Tutorial Bunker.ini - done! Ö
+		Scenes.ini - done! Ö
+	Index.ini on line 4 includes:
+		Activities.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Missions.rte Õ loading:
+	Index.ini on line 3 includes:
+		Items.ini on line 2 includes:
+			Item Gibs.ini - done! Ö
+		Items.ini - done! Ö
+	Index.ini on line 4 includes:
+		Scenes.ini on line 2 includes:
+			Scenes/Objects/Doainar/Index.ini - done! Ö
+		Scenes.ini on line 5 includes:
+			Scenes/Zombie Cave.ini - done! Ö
+		Scenes.ini on line 6 includes:
+			Scenes/Doainar.ini - done! Ö
+		Scenes.ini on line 7 includes:
+			Scenes/Dummy Assault.ini - done! Ö
+		Scenes.ini on line 8 includes:
+			Scenes/Maginot Mission.ini - done! Ö
+		Scenes.ini on line 10 includes:
+			Scenes/Zekarra Mining Outpost.ini - done! Ö
+		Scenes.ini on line 11 includes:
+			Scenes/Yskely Mining Outpost.ini - done! Ö
+		Scenes.ini on line 12 includes:
+			Scenes/Danosia Pass.ini - done! Ö
+		Scenes.ini on line 13 includes:
+			Scenes/Grasslands Mining Outpost.ini - done! Ö
+		Scenes.ini on line 14 includes:
+			Scenes/Vesod Fortress.ini - done! Ö
+		Scenes.ini on line 15 includes:
+			Scenes/Tundra Fortress.ini - done! Ö
+		Scenes.ini on line 16 includes:
+			Scenes/Mountain Fortress.ini - done! Ö
+		Scenes.ini on line 17 includes:
+			Scenes/Forest Fortress.ini - done! Ö
+		Scenes.ini on line 19 includes:
+			Scenes/Cave Bunkers.ini - done! Ö
+		Scenes.ini on line 20 includes:
+			Scenes/Grasslands Bunkers.ini - done! Ö
+		Scenes.ini on line 21 includes:
+			Scenes/Highlands Bunkers.ini - done! Ö
+		Scenes.ini on line 22 includes:
+			Scenes/Tundra Bunkers.ini - done! Ö
+		Scenes.ini - done! Ö
+	Index.ini on line 5 includes:
+		Mission Activities.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Benchmark.rte Õ loading:
+	Index.ini on line 3 includes:
+		Effects.ini - done! Ö
+	Index.ini on line 4 includes:
+		Scenes.ini on line 1 includes:
+			Benchmark.ini - done! Ö
+		Scenes.ini on line 2 includes:
+			Benchmark2.ini - done! Ö
+		Scenes.ini - done! Ö
+	Index.ini on line 5 includes:
+		Mission Activities.ini - done! Ö
+	Index.ini - done! Ö
+ 
+Scenes.rte Õ loading:
+	Index.ini - done! Ö
+ 
+Metagames.rte Õ loading:
+	Inde

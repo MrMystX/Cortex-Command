@@ -1,0 +1,10 @@
+- RTE Lua Console -
+See the Data Realms Wiki for commands:
+http://www.datarealms.com/wiki/
+-------------------------------------
+STEAM: Cloud is enabled for Cortex Command!
+STEAM: Cortex Command has 104857600 available bytes from a total of 104857600 bytes on this Steam account
+SYSTEM: Entire console contents saved to LogConsole.txt
+STEAM: RemoteStorageEnumerateUserSubscribedFilesResult_t ... recieving results
+STEAM: Results OK ... returned: 0
+STEAM API: Achievement status received!
